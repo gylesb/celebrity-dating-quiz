@@ -1,7 +1,21 @@
 #victoriajustice, #nickjonas, #channingtatum, #beyonce {
   display: none;
+  padding: 20px;
 }
 
 .jumbotron {
   text-align: center;
+}
+
+.container {
+  border: 2px;
+  background-color: #33ACFF;
+}
+
+h1, h4 {
+  text-align: center;
+}
+
+.btn {
+  margin-bottom: 20px;
 }
